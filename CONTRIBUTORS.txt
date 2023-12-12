@@ -8,3 +8,7 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+Victor Gaultney https://software.sil.org/namdhinggo/#contact
+Becca Spalinger https://software.sil.org/namdhinggo/#contact
+Bobby de Vos https://software.sil.org/namdhinggo/#contact
+Steve Smith https://software.sil.org/namdhinggo/#contact

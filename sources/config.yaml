@@ -1,7 +1,6 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - Namdhinggo.designspace
 axisOrder:
   - wght
-  - ital
-familyName: Rubik
+familyName: Namdhinggo
+autohintTTF: false
